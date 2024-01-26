@@ -1,4 +1,4 @@
-# Variable Speed Fan and LCD Control System
+# CPU Cooling Fan & LCD Control System
 
 This repository contains the source code and documentation for a variable speed fan and Liquid Crystal Display (LCD) control system implemented on an Atmega128 microcontroller. This system allows users to manipulate the fan's duty cycle and power status using a Rotary Pulse Generator (RPG) and a pushbutton, with real-time feedback displayed on the LCD.
 
