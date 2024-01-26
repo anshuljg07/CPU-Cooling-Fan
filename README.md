@@ -1,6 +1,9 @@
 # CPU Cooling Fan & LCD Control System
 
-This repository contains the source code and documentation for a variable speed fan and Liquid Crystal Display (LCD) control system implemented on an Atmega128 microcontroller. This system allows users to manipulate the fan's duty cycle and power status using a Rotary Pulse Generator (RPG) and a pushbutton, with real-time feedback displayed on the LCD.
+<img width="750" alt="Screen Shot 2024-01-25 at 3 15 03 PM" src="https://github.com/anshuljg07/CPU-Cooling-Fan/assets/72891464/a74c385c-664f-46a1-983a-9bd6f34b1b28">
+<br />
+<br />
+This repository contains the source code and documentation for a CPU cooling fan consisting of a variable speed fan and Liquid Crystal Display (LCD) control system implemented on an Atmega128 microcontroller. This system allows users to manipulate the fan's duty cycle and power status using a Rotary Pulse Generator (RPG) and a pushbutton, with real-time feedback displayed on the LCD.
 
 ## Table of Contents
 - Introduction
@@ -105,3 +108,11 @@ The software component of this project is written in assembly language and runs 
 
 This project demonstrated our knowledge of PWM generation, use of interrupts, and interfacing multiple complex peripherals together. In addition, it tested our debugging skills as there were many tough hardware and software bugs ranging from simple interrupts not firing to deeper issues with having interference on our PWM signal. However, working as a team we were able to dynamically problem solve by working systematically to isolate working components and understand crucial implementation details through consultation of datasheets and documentation.
 
+## Contributors
+This project was developed and is currently maintained by Anshul Gowda and Rafa Ragel de la Tejera.
+
+## Get in Contact:
+ [Anshul Gowda's LinkedIn](https://www.linkedin.com/in/anshul-gowda)
+<br />
+Rafa Rangel de la Tejera's LinkedIn
+<br />
