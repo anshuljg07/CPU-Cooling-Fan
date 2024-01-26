@@ -109,7 +109,7 @@ The software component of this project is written in assembly language and runs 
 This project demonstrated our knowledge of PWM generation, use of interrupts, and interfacing multiple complex peripherals together. In addition, it tested our debugging skills as there were many tough hardware and software bugs ranging from simple interrupts not firing to deeper issues with having interference on our PWM signal. However, working as a team we were able to dynamically problem solve by working systematically to isolate working components and understand crucial implementation details through consultation of datasheets and documentation.
 
 ## Contributors
-This project was developed and is currently maintained by Anshul Gowda and Rafa Ragel de la Tejera.
+This project was developed and is currently maintained by Anshul Gowda and Rafael Ragel de la Tejera.
 
 ## Get in Contact:
  [Anshul Gowda's LinkedIn](https://www.linkedin.com/in/anshul-gowda)
