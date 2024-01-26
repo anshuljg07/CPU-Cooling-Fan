@@ -30,7 +30,7 @@ The goal of this project is to design a versatile control system that combines h
 
 ### Schematic
 
-(Insert schematic here)
+<img width="800" alt="Screen Shot 2024-01-25 at 3 15 03 PM" src="https://github.com/anshuljg07/CPU-Cooling-Fan/assets/72891464/ebf43b8c-4bbb-4083-b3e4-094478c98f17">
 
 ### Components
 
